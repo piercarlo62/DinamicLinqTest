@@ -1,0 +1,253 @@
+﻿[
+  {
+    "id": 2,
+    "protocol": "0000001",
+    "fields": [
+      {
+        "id": 24,
+        "fieldName": "Nome Operatore Telemarketing",
+        "fieldValue": "ANNA FREI"
+      },
+      {
+        "id": 25,
+        "fieldName": "Codice Operatore Telemarketing",
+        "fieldValue": "TLK278"
+      },
+      {
+        "id": 26,
+        "fieldName": "Numero Scheda",
+        "fieldValue": "2020.T_0129870"
+      },
+      {
+        "id": 27,
+        "fieldName": "Note Scheda",
+        "fieldValue": "\"15/07/2020 15:24:03 CONFERMA DEL SETTORE : MACELLERIA"
+      },
+      {
+        "id": 28,
+        "fieldName": "Data Ricezione Scheda",
+        "fieldValue": "24/07/2020"
+      },
+      {
+        "id": 29,
+        "fieldName": "Data Scheda",
+        "fieldValue": "mer 15/07/20"
+      },
+      {
+        "id": 30,
+        "fieldName": "Protocollo",
+        "fieldValue": "129870"
+      },
+      {
+        "id": 31,
+        "fieldName": "Origine Scheda",
+        "fieldValue": "TMK"
+      },
+      {
+        "id": 32,
+        "fieldName": "Oggetto Trattativa",
+        "fieldValue": "MES"
+      },
+      {
+        "id": 33,
+        "fieldName": "Moneta",
+        "fieldValue": "EUR"
+      },
+      {
+        "id": 34,
+        "fieldName": "Nome Contatto",
+        "fieldValue": "CiaoBello"
+      },
+      {
+        "id": 35,
+        "fieldName": "Fatturato",
+        "fieldValue": "500000"
+      },
+      {
+        "id": 36,
+        "fieldName": "Titolo Contatto",
+        "fieldValue": "Dott."
+      },
+      {
+        "id": 37,
+        "fieldName": "Posizione Aziendale",
+        "fieldValue": "Amministratore"
+      },
+      {
+        "id": 38,
+        "fieldName": "Stato Scheda",
+        "fieldValue": "Nuovo"
+      },
+      {
+        "id": 39,
+        "fieldName": "Ditta",
+        "fieldValue": "MACELLERIA PELLICHERO"
+      },
+      {
+        "id": 40,
+        "fieldName": "Telefono Ufficio",
+        "fieldValue": "445410414"
+      },
+      {
+        "id": 41,
+        "fieldName": "Telefono Cellulare",
+        "fieldValue": ""
+      },
+      {
+        "id": 42,
+        "fieldName": "Email",
+        "fieldValue": "pop@po.it"
+      },
+      {
+        "id": 43,
+        "fieldName": "Indirizzo - Via",
+        "fieldValue": "VIA PASUBIO 92"
+      },
+      {
+        "id": 44,
+        "fieldName": "Indirizzo - Città",
+        "fieldValue": "VALDAGNO"
+      },
+      {
+        "id": 45,
+        "fieldName": "Indirizzo - Cap",
+        "fieldValue": "36078"
+      },
+      {
+        "id": 46,
+        "fieldName": "Note Operatore",
+        "fieldValue": null
+      },
+      {
+        "id": 47,
+        "fieldName": "Indirizzo - Provincia",
+        "fieldValue": "VI"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "protocol": "0000002",
+    "fields": [
+      {
+        "id": 48,
+        "fieldName": "Nome Operatore Telemarketing",
+        "fieldValue": "LI CASTIGO TUTTI"
+      },
+      {
+        "id": 49,
+        "fieldName": "Codice Operatore Telemarketing",
+        "fieldValue": "34567"
+      },
+      {
+        "id": 50,
+        "fieldName": "Numero Scheda",
+        "fieldValue": "TKLM_278956"
+      },
+      {
+        "id": 51,
+        "fieldName": "Note Scheda",
+        "fieldValue": "IL CLIENTE NON ASPETTA ALTRO CHE UN NOSTRO CONTRATTO"
+      },
+      {
+        "id": 52,
+        "fieldName": "Data Ricezione Scheda",
+        "fieldValue": "06/09/2020"
+      },
+      {
+        "id": 53,
+        "fieldName": "Data Scheda",
+        "fieldValue": "03/09/2020"
+      },
+      {
+        "id": 54,
+        "fieldName": "Protocollo",
+        "fieldValue": "122886"
+      },
+      {
+        "id": 55,
+        "fieldName": "Origine Scheda",
+        "fieldValue": "TMK"
+      },
+      {
+        "id": 56,
+        "fieldName": "Oggetto Trattativa"
+      },
+      {
+        "id": 57,
+        "fieldName": "Moneta",
+        "fieldValue": "EUR"
+      },
+      {
+        "id": 58,
+        "fieldName": "Nome Contatto",
+        "fieldValue": "CLAUDIO SPERANZA"
+      },
+      {
+        "id": 59,
+        "fieldName": "Fatturato",
+        "fieldValue": "5000000"
+      },
+      {
+        "id": 60,
+        "fieldName": "Titolo Contatto",
+        "fieldValue": "Dott.ssa"
+      },
+      {
+        "id": 61,
+        "fieldName": "Posizione Aziendale",
+        "fieldValue": "Amministratore"
+      },
+      {
+        "id": 62,
+        "fieldName": "Stato Scheda",
+        "fieldValue": "Nuovo"
+      },
+      {
+        "id": 63,
+        "fieldName": "Ditta",
+        "fieldValue": "FATTURO COME UN CANE SPA"
+      },
+      {
+        "id": 64,
+        "fieldName": "Telefono Ufficio",
+        "fieldValue": "+39 049 825632189"
+      },
+      {
+        "id": 65,
+        "fieldName": "Telefono Cellulare",
+        "fieldValue": null
+      },
+      {
+        "id": 66,
+        "fieldName": "Email",
+        "fieldValue": "piercarlo.schiavo@gmail.com"
+      },
+      {
+        "id": 67,
+        "fieldName": "Indirizzo - Via",
+        "fieldValue": "Via le mani dal culo, 27"
+      },
+      {
+        "id": 68,
+        "fieldName": "Indirizzo - Città",
+        "fieldValue": "Padova"
+      },
+      {
+        "id": 69,
+        "fieldName": "Indirizzo - Cap",
+        "fieldValue": "35100"
+      },
+      {
+        "id": 70,
+        "fieldName": "Note Operatore",
+        "fieldValue": null
+      },
+      {
+        "id": 71,
+        "fieldName": "Indirizzo - Provincia",
+        "fieldValue": "PD"
+      }
+    ]
+  }
+]
