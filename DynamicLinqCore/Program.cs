@@ -1,15 +1,10 @@
 ﻿using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
-<<<<<<< HEAD
 using System.Dynamic;
 using System.IO;
 using System.Linq;
 using System.Linq.Dynamic.Core;
-=======
-using System.IO;
-using System.Linq;
->>>>>>> bb8c64620c7ba8e76e6688df6ab6424a60f5d42d
 
 namespace DynamicLinqCore
 {
@@ -21,7 +16,7 @@ namespace DynamicLinqCore
             string json = File.ReadAllText(filePath);
             var playerList = JsonConvert.DeserializeObject<List<WorkSheet>>(json);
 
-<<<<<<< HEAD
+
             List<string> orderProperties = new List<string>
             {
                 "Indirizzo - Provincia" + " desc",
@@ -40,16 +35,6 @@ namespace DynamicLinqCore
                 dynamic d = expando;
                 return d;
             }).AsQueryable().OrderBy(ordeByString).Select("ws").ToDynamicList<WorkSheet>();
-=======
-            var wsOrdered = playerList.AsQueryable()
-                    .Select(ws => new
-                    {
-                        provincia = ws.Fields.GetPropertyValue("Indirizzo - Provincia"),
-                        citta = ws.Fields.GetPropertyValue("Indirizzo - Città"),
-                        workSheet = ws
-                    })
-                    .OrderBy(x => x.provincia).ThenBy(x => x.citta).Select(x => x.workSheet).ToList();
->>>>>>> bb8c64620c7ba8e76e6688df6ab6424a60f5d42d
 
             foreach (var item in wsOrdered)
             {

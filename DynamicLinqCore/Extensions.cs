@@ -1,12 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-<<<<<<< HEAD
+﻿using System.Collections.Generic;
 using System.Text.RegularExpressions;
-=======
->>>>>>> bb8c64620c7ba8e76e6688df6ab6424a60f5d42d
-using System.Threading.Tasks;
 
 namespace DynamicLinqCore
 {
@@ -21,7 +14,6 @@ namespace DynamicLinqCore
             }
             return string.Empty;
         }
-<<<<<<< HEAD
 
         public static string FormatValueAsProperty(this string strValue, bool AddDesc)
         {
@@ -78,7 +70,5 @@ namespace DynamicLinqCore
 
             return listToReturn;
         }
-=======
->>>>>>> bb8c64620c7ba8e76e6688df6ab6424a60f5d42d
     }
 }
