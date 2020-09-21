@@ -29,7 +29,7 @@ namespace DynamicLinqCore
                 IDictionary<string, object> expando = new ExpandoObject();
                 foreach (var item in orderProperties)
                 {
-                    expando[item.FormatValueAsProperty(false)] = ws.Fields.GetPropertyValue(item);
+                    expando[item.FormatValueAsProperty(false)] = ws.Fields.GetPropertyValue(item.Replace(" desc",""));
                 }
                 expando["ws"] = ws;
                 dynamic d = expando;
